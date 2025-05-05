@@ -1,4 +1,4 @@
-EX-21-POINTERS
+# NAME ;JOHNPALL M(212224040140)
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
 
